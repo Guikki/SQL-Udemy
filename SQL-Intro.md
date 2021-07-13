@@ -35,7 +35,7 @@ _Structured Query Linguage_ , que significa **Linguagem Estruturada para Pesquis
 
 **Banco de Dados**
 
-É um local de  **armazenamento de informações**, onde você também pode **guardar dados de forma organizada e estruturada**,facilitando a busca, a atualização, o armazenamento e o manejo em geral dos dados.  Esses dados podem estar em vários formatos, como texto, números, datas, booleanos, nulo, dentre outros.
+Também chamados de **Database** ou **Datalake**. É um local de  **armazenamento de informações**, onde você também pode **guardar dados de forma organizada e estruturada**,facilitando a busca, a atualização, o armazenamento e o manejo em geral dos dados.  Esses dados podem estar em vários formatos, como texto, números, datas, booleanos, nulo, dentre outros.
 
 Uma forma simples de pensar em um "banco de dados" seria a **agenda telefônica**, que organiza as informações de forma organizada, em regra em ordem alfabética; nela, você pode colocar informações como **nome, telefone, endereço, aniversário**, entre outras informações.
 
@@ -44,3 +44,6 @@ A agenda é comparável a uma **tabela**, onde no exemplo acima, temos **uma TAB
 Ou seja: Se estivéssemos criando uma tabela em SQL com essas informações, a tabela teria o nome de **AGENDA TELEFÔNICA**, onde teríamos os **CAMPOS** de nome, telefone, endereço e aniversário.
 
 E é essa a lógica de uma tabela: organizar as informações em campos, facilitando o manejo para quando a informação buscada for necessária. SQL, por sua vez, é a linguagem de programação que melhor se aplica para esse manejo, seja criando tabelas, adicionando campos, buscando as informações etc.
+
+
+Por hora, é importante lembrar que existem várias formas de guardar informações: Papéis, planilhas, blocos de notas, documentos em .docx etc. Contudo, quando se fala em **armazenar informações em larga escala**, de maneira estruturada e organizada, é mais indicado o uso de bancos de dados, e a linguagem SQL para manipula-los.
