@@ -11,8 +11,9 @@ _Perae, como assim?_
 
 Vamos de exemplo: Se eu disser pra você: "Vá ao mercado e traga pão. Caso tenha leite, traga 6". E eis que você chega ao mercado e encontra leite lá. O que você trará pra casa?
 
-a) Já que tem leite, vou levar 6 caixinhas de leite... essa foi _easy like a sunday morning_
-b) Ué... Já que tem leite, eu vou levar 6 pães, oras!
+> a) Já que tem leite, vou levar 6 caixinhas de leite... essa foi _easy like a sunday morning_
+
+> b) Ué... Já que tem leite, eu vou levar 6 pães, oras!
 
 Pode parecer absurdo, mas o computador nesse caso levaria... 6 pães. Exatamente!
 
